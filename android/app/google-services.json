@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1020581351082",
+    "project_id": "bigul-ekyc",
+    "storage_bucket": "bigul-ekyc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020581351082:android:e984967b5afda5724c4ad3",
+        "android_client_info": {
+          "package_name": "com.example.bigul_ekyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020581351082-5o4qcbl831neg6sh6037hddulkf20ng0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bigul_ekyc",
+            "certificate_hash": "e255ffde518313e918f9d12e1ecb6a0f8b61fa85"
+          }
+        },
+        {
+          "client_id": "1020581351082-op7o6v62celr7g3kqpj99lvi6vk9dggj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhC_HTP4bcldg0Hw0z_GSWM1joSG6tRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020581351082-2s52du2dj71dlecq48ccoa6snuh6mq7g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020581351082-s202vootdgqtm1rah2fs9i37oq70657p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bigulEkyc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
